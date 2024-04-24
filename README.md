@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, mundo 👋  
+
+👀 **Pronomes**: ele/dele  
+💻 **Mais de 10 anos** de experiência na área da computação, divididos entre desenvolvimento backend, agile, QA e gestão de pessoas  
+:shipit: **Linguagens de programação**: elixir, javascript, typescript, java, python, ruby  
+💙 **interesses**: código simples, testes automatizados, métricas ágeis, dados, automação, _work-life balance_, trabalho remoto      
+
 
 <!--
 **johnnytaira/johnnytaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

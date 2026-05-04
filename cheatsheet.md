@@ -1,13 +1,13 @@
 # Docker
 
 ## delete all images 
-docker rmi $(docker images -a -q)
+`docker rmi $(docker images -a -q)`
 
 ## delete all containers 
-docker rm $(docker ps -aq)
+`docker rm $(docker ps -aq)`
 
 ## delete all volumes
-docker volume prune
+`docker volume prune`
 
 ## delete all containers
-docker container prune
+`docker container prune`
